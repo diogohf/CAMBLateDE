@@ -1,5 +1,5 @@
 # CAMBLateDE - CAMB for Late Dark Energy
-Most *update* version at https://github.com/SBU-COSMOLIKE/CAMBLateDE
+Most *updated* version at https://github.com/SBU-COSMOLIKE/CAMBLateDE
 Constributors:
 
 This is a CAMB modification that implements parametrizations for the equation of state for late dark energy.
